@@ -1,6 +1,5 @@
 {
-  "name": "contactmanager",
-  "author": "Mohamed IDBRAHIM",
+  "name": "app-season",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
